@@ -1,0 +1,23 @@
+{
+  "name": "san",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjbvz/test-vscode-webview-views.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjbvz/test-vscode-webview-views/issues"
+  },
+  "homepage": "https://github.com/mjbvz/test-vscode-webview-views#readme",
+  "dependencies": {
+    "typescript": "^4.2.0-dev.20201211"
+  }
+}

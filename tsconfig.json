@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "lib": [
+            "es5"
+        ]
+    },
+    "files": [
+        "index.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/node_modules/**"
+    ]
+}
